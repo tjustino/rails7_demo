@@ -1,3 +1,4 @@
+```sh
 rails new rails7_demo
 cd rails7_demo
 rails generate scaffold post title:string content:text
@@ -10,5 +11,6 @@ rails g resource comment post:references content:text
 rails db:migrate
 rails g mailer comments submitted
 rails test
+```
 
 Hotwire → 24:30
