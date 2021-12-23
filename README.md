@@ -12,5 +12,3 @@ rails db:migrate
 rails g mailer comments submitted
 rails test
 ```
-
-Hotwire → 24:30
